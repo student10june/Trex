@@ -1,0 +1,38 @@
+[Event "Computer chess game"]
+[Site "LTLAP670"]
+[Date "2020.09.06"]
+[Round "?"]
+[White "Kausthubha"]
+[Black "Stockfish_20090216_x64_modern"]
+[Result "*"]
+[BlackElo "2000"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Time "18:50:08"]
+[Variation "Najdorf, 6...e6"]
+[WhiteElo "2400"]
+[TimeControl "300"]
+[Termination "unterminated"]
+[PlyCount "28"]
+[WhiteType "human"]
+[BlackType "program"]
+
+1. e4 c5 {(c7-c5 Nb1-c3) -0.30/16 2} 2. Nf3 d6 {(d7-d6 c2-c3 Ng8-f6 Bf1-d3
+g7-g6 Bd3-c2 Nb8-c6 h2-h3 e7-e5 O-O Bf8-g7 d2-d4 e5xd4 c3xd4) -0.17/14 0}
+3. d4 cxd4 {(c5xd4 Nf3xd4) -0.31/13 0} 4. Nxd4 Nf6 {(Ng8-f6 Nb1-c3)
+-0.37/15 0} 5. Nc3 a6 {(a7-a6 Bc1-e3) -0.46/13 0} 6. Bg5 e6 {(e7-e6 Bf1-e2)
+-0.12/13 0} 7. Bxf6 Qxf6 {(Qd8xf6) +0.35/16 0} 8. Nf3 b5 {(b7-b5 Bf1-d3
+Nb8-d7 O-O Bf8-e7 Qd1-e1 Ra8-b8 Nc3-d1 Nd7-c5 Qe1-e2 O-O Rf1-e1 a6-a5 a2-a3
+Bc8-a6 e4-e5 d6xe5 Nf3xe5) +0.96/19 3} 9. a3 Bb7 {(Bc8-b7 g2-g3 Nb8-d7
+Bf1-g2 Qf6-d8 O-O Qd8-b6 Rf1-e1 Bf8-e7 a3-a4 b5-b4 a4-a5 Qb6-c7 Nc3-a2
+Qc7xa5 Qd1-d4 O-O Qd4xb4 Qa5-c7 Na2-c3 Rf8-b8 Qb4-a3 h7-h6) +1.09/23 6} 10.
+Bd3 Nd7 {(Nb8-d7 O-O g7-g6 Ra1-b1 Bf8-g7 Nc3-e2 Ra8-d8 Rf1-e1 d6-d5 Ne2-d4
+Qf6-f4 g2-g3 Qf4-c7 Qd1-e2 d5xe4 Bd3xe4 Bb7xe4 Qe2xe4 O-O) +1.22/19 2} 11.
+Qd2 Be7 {(Bf8-e7 O-O O-O Rf1-e1 Ra8-c8 Ra1-b1 Nd7-c5 Rb1-d1 g7-g6 Bd3-f1
+Nc5-d7 Qd2-e2 Nd7-e5 Nf3xe5 Qf6xe5 Rd1-d3 Rc8-c7 Nc3-d1 d6-d5 e4xd5 Qe5xe2
+Bf1xe2) +1.45/20 3} 12. h3 O-O {(O-O O-O Ra8-c8 Rf1-e1 Rc8-c7 Ra1-b1 g7-g6
+Nc3-e2 d6-d5 Ne2-d4 e6-e5 Nd4-b3 Qf6-g7 a3-a4 b5xa4 Nb3-a5 Bb7-a8 e4xd5
+Ba8xd5) +1.52/21 3} 13. O-O Rac8 {(Ra8-c8 Rf1-e1 g7-g6 Ra1-b1 Nd7-c5 Bd3-f1
+Rc8-c7 Rb1-d1 Nc5-d7 Nf3-d4 Rf8-c8 Qd2-e3 Qf6-e5 Nd4-b3 Bb7-a8 Nb3-c1
+Qe5-c5 Qe3xc5 Nd7xc5) +1.66/20 3} 14. Rfe1 g6 {(g7-g6) +1.62/19 3} *
+
